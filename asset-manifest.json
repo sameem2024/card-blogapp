@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/card-blogapp/static/css/main.41e51523.css",
+    "main.js": "/card-blogapp/static/js/main.505401e7.js",
+    "static/media/about.avif": "/card-blogapp/static/media/about.9e2ea5ad5b895b9776f6.avif",
+    "index.html": "/card-blogapp/index.html",
+    "main.41e51523.css.map": "/card-blogapp/static/css/main.41e51523.css.map",
+    "main.505401e7.js.map": "/card-blogapp/static/js/main.505401e7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41e51523.css",
+    "static/js/main.505401e7.js"
+  ]
+}
