@@ -1,14 +1,19 @@
 {
   "files": {
-    "main.css": "/card-blogapp/static/css/main.41e51523.css",
-    "main.js": "/card-blogapp/static/js/main.505401e7.js",
+    "main.css": "/card-blogapp/static/css/main.d7a615a5.css",
+    "main.js": "/card-blogapp/static/js/main.e8e6ac62.js",
+    "static/media/img2.jpg": "/card-blogapp/static/media/img2.b3fc5d36d35575605739.jpg",
+    "static/media/img4.jpg": "/card-blogapp/static/media/img4.0aee2bf60b316e56ae12.jpg",
+    "static/media/img5.jpg": "/card-blogapp/static/media/img5.000e2ec8a0f3c99527b6.jpg",
+    "static/media/img3.jpg": "/card-blogapp/static/media/img3.5f2ccb691a0c364539eb.jpg",
+    "static/media/img1.jpg": "/card-blogapp/static/media/img1.b61634730c0317b2216b.jpg",
     "static/media/about.avif": "/card-blogapp/static/media/about.9e2ea5ad5b895b9776f6.avif",
     "index.html": "/card-blogapp/index.html",
-    "main.41e51523.css.map": "/card-blogapp/static/css/main.41e51523.css.map",
-    "main.505401e7.js.map": "/card-blogapp/static/js/main.505401e7.js.map"
+    "main.d7a615a5.css.map": "/card-blogapp/static/css/main.d7a615a5.css.map",
+    "main.e8e6ac62.js.map": "/card-blogapp/static/js/main.e8e6ac62.js.map"
   },
   "entrypoints": [
-    "static/css/main.41e51523.css",
-    "static/js/main.505401e7.js"
+    "static/css/main.d7a615a5.css",
+    "static/js/main.e8e6ac62.js"
   ]
 }
